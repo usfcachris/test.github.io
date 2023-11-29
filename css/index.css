@@ -1,0 +1,51 @@
+
+
+
+
+nav {
+    height: 56px;
+    width: 100%;
+    font-size: 1em;
+    background-color: rgb(33, 33, 33);
+}
+.nav-item.nav-link{
+    color: white;
+    padding:16px 16px;
+}
+.navbar-brand {
+    color: #0070ad;
+}
+.nav-item.nav-link:hover, .nav-item.nav-link.active:hover{
+    background-color: rgb(155, 154, 154);
+    color:black;
+}
+
+.nav-item.nav-link.active {
+    background-color: #B1B3B3;
+}
+
+
+
+.header {
+    padding-top: 50px;
+    padding-left: 45px;
+    height: 300px;
+    width: 25%;
+    color: white;
+    background-color: #0070ad;
+
+    margin-left: 30px;
+
+    font-family: 'Microsoft YaHei', sans-serif;
+    
+}
+
+.order {
+    height: 70vh;    
+    width: auto;
+    background-color: #023c5b;
+    
+    margin-left: 250px;
+    margin-top: -130px;
+    margin-right: 0;
+}
